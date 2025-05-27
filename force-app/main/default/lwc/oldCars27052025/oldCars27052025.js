@@ -29,7 +29,9 @@ export default class CarrosClassicos extends LightningElement {
         { id: '7', modelo: 'Gol GT', marca: 'Volkswagen', ano: 1984, cor: 'Vermelho', valor: 25000 },
         { id: '8', modelo: 'Chevette', marca: 'Chevrolet', ano: 1976, cor: 'Bege', valor: 18000 },
         { id: '9', modelo: 'Santana', marca: 'Volkswagen', ano: 1986, cor: 'Prata', valor: 15000 },
-        { id: '10', modelo: 'Del Rey', marca: 'Ford', ano: 1982, cor: 'Marrom', valor: 22000 }
+        { id: '10', modelo: 'Monza', marca: 'Chevrolet', ano: 1990, cor: 'Azul', valor: 24000 },
+        { id: '11', modelo: 'Del Santana', marca: 'Volkswagen', ano: 1997, cor: 'azul', valor: 23000 },
+        { id: '13', modelo: 'Kombi', marca: 'Volkswagen', ano: 1974, cor: 'Bege', valor: 60000 }
     ];
 
     @track defaultSortDirection = 'asc';
