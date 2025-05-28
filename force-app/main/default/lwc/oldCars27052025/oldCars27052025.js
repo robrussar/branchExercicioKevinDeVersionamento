@@ -31,6 +31,7 @@ export default class CarrosClassicos extends LightningElement {
         { id: '9', modelo: 'Santana', marca: 'Volkswagen', ano: 1986, cor: 'Prata', valor: 15000 },
         { id: '10', modelo: 'Monza', marca: 'Chevrolet', ano: 1990, cor: 'Azul', valor: 24000 },
         { id: '11', modelo: 'Del Santana', marca: 'Volkswagen', ano: 1997, cor: 'azul', valor: 23000 },
+        { id: '12', modelo: 'F1000', marca: 'Ford', ano: 1998, cor: 'Vermelha', valor: 30000 },
         { id: '13', modelo: 'Kombi', marca: 'Volkswagen', ano: 1974, cor: 'Bege', valor: 60000 }
     ];
 
